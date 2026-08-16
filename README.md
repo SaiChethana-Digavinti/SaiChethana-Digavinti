@@ -16,7 +16,7 @@ Passionate about Data Analytics, Python, SQL and Power BI. I enjoy building real
 
 - **[Universal CSV Data Quality Analyzer using Python](https://github.com/SaiChethana-Digavinti/Universal-CSV-Data-Quality-Analyzer-using-python)** — Python based tool for detecting missing values, duplicates, inconsistent data types, and outliers.
 - **[Sales Report Analysis using Power BI](https://github.com/SaiChethana-Digavinti/Sales-Report-Analysis-using-PowerBi)** — Interactive Power BI project for analyzing sales data.
-- ** [Rock Paper Scissors Web Game](https://github.com/SaiChethana-Digavinti/Rock-Paper-Scissors-Web-Game)** — Interactive browser-based game built using HTML, CSS, and JavaScript.
+- **[Rock Paper Scissors Web Game](https://github.com/SaiChethana-Digavinti/Rock-Paper-Scissors-Web-Game)** — Interactive browser-based game built using HTML, CSS, and JavaScript.
 
 ## Currently Learning
 
