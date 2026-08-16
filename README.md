@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Sai Chethana Digavinti 👋
 
-<!--
-**SaiChethana-Digavinti/SaiChethana-Digavinti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Analyst | Python Developer | Data Science Enthusiast**
 
-Here are some ideas to get you started:
+Passionate about Data Analytics, Python, SQL and Power BI. I enjoy building real-world projects, exploring new technologies and turning data into meaningful insights. Currently learning Data Science with Python and working on practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Programming:** Python, HTML, CSS  
+**Data & Analytics:** Data Analytics, Power BI, Pandas, NumPy, Matplotlib, Excel  
+**Database:** SQL, MySQL  
+**Tools:** Git, GitHub, Jupyter Notebook, MySQL Workbench, DBeaver  
+**Currently Learning:** Data Science with Python, Generative AI, LSTM, Deep Learning
+
+## Featured Projects
+
+- **[Sales Report Analysis using Power BI](https://github.com/SaiChethana-Digavinti/Sales-Report-Analysis-using-PowerBi)** — Interactive Power BI project for analyzing sales data.
+
+## Currently Learning
+
+- 📊 Data Science with Python
+- 🧠 Deep Learning
+- 📈 Advanced Data Analytics
+- 💻 Building Real-World Projects
+
+## Reach Me
+
+- **LinkedIn:** [Sai Chethana Digavinti](https://www.linkedin.com/in/sai-chethana-digavinti/)
+- **GitHub:** [SaiChethana-Digavinti](https://github.com/SaiChethana-Digavinti)
+- **Email:** saichethanadigavinti@gmail.com
