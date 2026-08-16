@@ -1,4 +1,4 @@
-# Hi, I'm Sai Chethana Digavinti 👋
+# Hi, I'm Sai Chethana Digavinti 
 
 **Aspiring Data Analyst | Python Developer | Data Science Enthusiast**
 
@@ -18,10 +18,10 @@ Passionate about Data Analytics, Python, SQL and Power BI. I enjoy building real
 
 ## Currently Learning
 
-- 📊 Data Science with Python
-- 🧠 Deep Learning
-- 📈 Advanced Data Analytics
-- 💻 Building Real-World Projects
+-  Data Science with Python
+-  Deep Learning
+-  Advanced Data Analytics
+-  Building Real-World Projects
 
 ## Reach Me
 
